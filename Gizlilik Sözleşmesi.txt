@@ -1,0 +1,55 @@
+Karolances Gizlilik Sözleşmesi
+
+Bu sözleşme, [Sunucu İsmi] Minecraft sunucusunda ("Sunucu") yetkili olarak görev alan kişilerin ("Yetkili") sunucu içerisinde edindikleri bilgi ve verilere dair gizlilik yükümlülüklerini kapsamaktadır. Sunucuya yetkili olarak erişim sağlayan kişiler, aşağıdaki gizlilik kurallarını kabul etmiş sayılırlar.
+
+1. Gizli Bilgilerin Tanımı
+Gizli Bilgi, Sunucu yönetimi tarafından Yetkili’ye sağlanan, sunucuya ait her türlü bilgi, veri, içerik ve belgeleri ifade eder. Bu bilgiler arasında şunlar yer alabilir, ancak bunlarla sınırlı değildir:
+
+Oyuncu kişisel bilgileri (kullanıcı isimleri, IP adresleri, bağlantı süreleri, e-posta adresleri vb.)
+Sunucu yönetim araçlarına ve komutlarına dair bilgi
+Sunucu yapılandırması, eklentiler ve diğer teknik detaylar
+Olay ve aktivite logları
+Sunucuya özel etkinlik ve kampanya planları
+2. Gizlilik Yükümlülüğü
+Yetkili, Gizli Bilgi’yi:
+
+Sunucu yönetimi tarafından açıkça izin verilmedikçe üçüncü şahıslarla paylaşmamayı,
+Sunucu dışındaki kişilerle tartışmamayı,
+Kendi çıkarları veya başkalarının çıkarları için kullanmamayı,
+Gizliliğin ihlali sonucunda doğacak zararlardan sorumlu olduğunu kabul etmektedir.
+3. Yetkililerin Sorumlulukları
+Yetkililer aşağıdaki sorumlulukları üstlenir:
+
+Sunucuya dair gizli bilgilere yalnızca yetkileri çerçevesinde erişim sağlamak.
+Gizli bilgilerin güvenliğini sağlamak için gereken önlemleri almak.
+Yetkilendirme dışında herhangi bir veri toplamaktan veya saklamaktan kaçınmak.
+Yetkili olduğu sürede sunucu içinde meydana gelen olaylar hakkında tarafsız ve objektif kalmak.
+4. Bilgilerin Paylaşımı
+Yetkililer, gizli bilgileri yalnızca Sunucu yönetiminin izin verdiği kişilerle paylaşabilir. Aşağıdaki durumlar dışında bilgi paylaşımı yasaktır:
+
+Sunucu yönetiminin açık onayı olması durumunda.
+Yasal zorunluluk halinde, ancak bu durumda yönetim derhal bilgilendirilmelidir.
+5. Veri Güvenliği
+Yetkili, gizli bilgiler üzerinde herhangi bir güvenlik riski oluşturmamak için aşağıdaki önlemleri almakla yükümlüdür:
+
+Güvenli parolalar kullanmak ve bunları periyodik olarak değiştirmek.
+Sunucu içindeki bilgileri üçüncü şahıslarla paylaşmamak.
+Sunucuya dair bilgileri yetkilendirilmemiş cihazlarda saklamamak.
+6. Gizliliğin İhlali ve Sonuçları
+Bu sözleşme kapsamındaki herhangi bir gizlilik yükümlülüğünün ihlali durumunda:
+
+Yetkili’nin yetkisi anında geri alınabilir.
+İhlal sonucunda Sunucu veya oyunculara zarar gelmişse, Yetkili bu zararlardan sorumlu tutulabilir.
+İhlalin ciddiyetine bağlı olarak yasal işlem başlatılabilir.
+7. Yetkinin Sonlandırılması
+Yetkili’nin herhangi bir sebeple sunucudaki yetkilerinin sona ermesi durumunda:
+
+Yetkili, sahip olduğu tüm gizli bilgileri silmek ve sunucu yönetimi ile paylaşmamakla yükümlüdür.
+Yetkili, sunucuya dair bilgileri üçüncü şahıslara aktarmamayı taahhüt eder.
+8. Sözleşme Süresi
+Bu sözleşme, Yetkili sunucuda görev aldığı süre boyunca geçerlidir ve yetkili olduğu pozisyondan ayrıldıktan sonra da gizliliğe dair maddeler geçerliliğini korur.
+
+Tüm yetkililer bu sözleşmeyi okumuş ve kabul etmiş sayılır
+
+
+
