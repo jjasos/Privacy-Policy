@@ -1,0 +1,1 @@
+Karolances Gizlilik Sözleşmesi
