@@ -1,6 +1,6 @@
 Karolances Gizlilik Sözleşmesi
 
-Bu sözleşme, [Sunucu İsmi] Minecraft sunucusunda ("Sunucu") yetkili olarak görev alan kişilerin ("Yetkili") sunucu içerisinde edindikleri bilgi ve verilere dair gizlilik yükümlülüklerini kapsamaktadır. Sunucuya yetkili olarak erişim sağlayan kişiler, aşağıdaki gizlilik kurallarını kabul etmiş sayılırlar.
+Bu sözleşme, Karolances Minecraft sunucusunda yetkili olarak görev alan kişilerin Karolances sunucu içerisinde edindikleri bilgi ve verilere dair gizlilik yükümlülüklerini kapsamaktadır. Sunucuya yetkili olarak erişim sağlayan kişiler, aşağıdaki gizlilik kurallarını kabul etmiş sayılırlar.
 
 1. Gizli Bilgilerin Tanımı
 Gizli Bilgi, Sunucu yönetimi tarafından Yetkili’ye sağlanan, sunucuya ait her türlü bilgi, veri, içerik ve belgeleri ifade eder. Bu bilgiler arasında şunlar yer alabilir, ancak bunlarla sınırlı değildir:
